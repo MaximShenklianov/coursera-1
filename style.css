@@ -1,0 +1,33 @@
+/*navigation styles */ 
+.nav-logo{
+	font-size: 48px;
+	color: #ffffff;
+	font-weight: 400;
+	font-family: "Oleo Script";
+}
+
+.nav-right {
+	float: right;
+	background-color: #303030;
+}
+
+.nav-right a {
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 12px;
+	color: #ffffff;
+	font-family: "Raleway";
+	text-decoration: none;
+	margin: 42px 30px 30px 30px;
+}
+
+.nav-right a.active{
+	padding-bottom: 13px;
+	border-bottom: 5px #7b6c63;
+}
+.nav-right a:hover{
+	color: #7b6c63;
+}
+
+
+/* section 1 - "Home" styles */
